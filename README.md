@@ -1,1 +1,1 @@
-# SinGAN-for-image-Denoising-MVA-RecVis-
+# [MVA] Comaparison of Object Detection Algorithms
